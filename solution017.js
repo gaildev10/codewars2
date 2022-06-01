@@ -5,3 +5,4 @@ function getAverage(marks){
     let newArr = marks.reduce((acc,c )=> acc + c)
     return Math.floor(newArr/marks.length)
   }
+  getAverage()
