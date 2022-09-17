@@ -1,5 +1,4 @@
-//my head
-
+//Meerkat
 function fixTheMeerkat(arr) {
     return arr.reverse()
    }
