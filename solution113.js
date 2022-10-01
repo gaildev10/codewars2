@@ -1,0 +1,3 @@
+//MrFreexe
+
+Object.freeze(MrFreeze)
