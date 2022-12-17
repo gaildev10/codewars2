@@ -1,4 +1,4 @@
-//save L1: Set Alarm
+// L1: Set Alarm
 
 
 function setAlarm  (employed, vacation){ 
